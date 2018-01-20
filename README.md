@@ -1,3 +1,3 @@
-#UofTHacks 5
+# UofTHacks 5
 ---
 * 2018
