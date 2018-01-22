@@ -23,7 +23,7 @@ actionMap.set('directsearch', app => directSearch(app));
 
 
 const eventHost = 'https://www.eventbriteapi.com';
-const event_api_token = 'BIULIDSMSLAPALHQXCIY';
+const event_api_token = '';
 
 
 // var parameters = {
@@ -125,8 +125,8 @@ var oCriteria = {
 
 // var NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-language-understanding/v1.js');
 // var natural_language_understanding = new NaturalLanguageUnderstandingV1({
-//   'username': '66c3b439-9b57-48fe-9c53-e5b82d4289f5',
-//   'password': 'o0zSfj5pkdzs',
+//   'username': '',
+//   'password': '',
 //   'version_date': '2017-02-27'
 // });
 
